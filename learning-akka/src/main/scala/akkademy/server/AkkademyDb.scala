@@ -1,7 +1,9 @@
-package examples
+package akkademy.server
 
 import akka.actor.Actor
 import akka.event.Logging
+import SetRequest
+
 import scala.collection._
 
 /**

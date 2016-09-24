@@ -1,4 +1,4 @@
-package examples
+package akkademy.server
 
 import akka.actor.ActorSystem
 import akka.testkit.TestActorRef
